@@ -1,0 +1,7 @@
+E:\Education WEB\snake\Snake\Snake\bin\Debug\Snake.exe.config
+E:\Education WEB\snake\Snake\Snake\bin\Debug\Snake.exe
+E:\Education WEB\snake\Snake\Snake\bin\Debug\Snake.pdb
+E:\Education WEB\snake\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+E:\Education WEB\snake\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+E:\Education WEB\snake\Snake\Snake\obj\Debug\Snake.exe
+E:\Education WEB\snake\Snake\Snake\obj\Debug\Snake.pdb
